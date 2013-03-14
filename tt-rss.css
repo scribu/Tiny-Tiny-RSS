@@ -408,7 +408,6 @@ a.helpLink:hover {
 	border-color : #c0e0c0;
 	border-style : solid;
 	background : #fafafa;
-	display : block;
 }
 
 #content-insert pre, #headlines-frame pre, .dijitContentPane pre {
